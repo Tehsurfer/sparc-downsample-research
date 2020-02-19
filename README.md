@@ -16,4 +16,4 @@ python downsample-test.py
 python downsample.py
 python -m http.server
 ```
-open index.html
+open http://0.0.0.0:8000/ in browser
